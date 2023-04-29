@@ -15,7 +15,7 @@ const Hero = () => {
         </h1>
         <h2 className="desc">
           Simplify your reading with Shaikh's Summarizer, an OpenAI article summarizer
-          that transforms length articles into concsice summaries.
+          that transforms length articles into concise summaries.
         </h2>
     </header>
   )
